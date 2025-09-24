@@ -1,8 +1,7 @@
-##⚙️ Sistema de Pós-Formatação – Automação de Instalação e Manutenção
-![Tela do Sistema]()
+## ⚙️Sistema de Pós-Formatação – Automação de Instalação e Manutenção
 Este projeto é um script em Batch (.bat) desenvolvido para automatizar tarefas pós-formatação no Windows, otimizando tempo e facilitando a instalação de programas essenciais, drivers e correção de impressoras.
-
-##🚀 Funcionalidades
+![Tela do Sistema]()
+## 🚀Funcionalidades
 - Menu interativo organizado por categorias:
 
 - Navegadores (Chrome, Firefox)
