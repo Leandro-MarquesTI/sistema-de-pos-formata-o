@@ -6,46 +6,45 @@ Este projeto é um script em Batch (.bat) desenvolvido para automatizar tarefas 
 
 
 ##🚀 Funcionalidades##
--Menu interativo organizado por categorias:
+- Menu interativo organizado por categorias:
 
--Navegadores (Chrome, Firefox)
+- Navegadores (Chrome, Firefox)
 
--Utilitários (WinRAR, 7-Zip, CCleaner)
+- Utilitários (WinRAR, 7-Zip, CCleaner)
 
--Mídia (VLC, Spotify)
+- Mídia (VLC, Spotify)
 
--Escritório (LibreOffice, Adobe PDF Reader)
+- Escritório (LibreOffice, Adobe PDF Reader)
 
--Ferramentas online (Telegram, WhatsApp, Zoom)
+- Ferramentas online (Telegram, WhatsApp, Zoom)
 
--Drivers e componentes (Driver Booster, DirectX, Visual C++, Driver Easy)
+- Drivers e componentes (Driver Booster, DirectX, Visual C++, Driver Easy)
 
--Instalação automática:
+- Instalação automática:
 
--Download direto dos sites oficiais.
+- Download direto dos sites oficiais.
 
--Execução silenciosa quando disponível (/quiet /norestart).
+- Execução silenciosa quando disponível (/quiet /norestart).
 
--Opção para instalar todos os programas de uma vez.
+- Opção para instalar todos os programas de uma vez.
 
--Gerenciamento de impressoras:
+- Gerenciamento de impressoras:
 
--Lista impressoras conectadas.
+- Lista impressoras conectadas.
 
--Instala drivers de fabricantes (HP, Epson, Canon, Brother).
+- Instala drivers de fabricantes (HP, Epson, Canon, Brother).
 
--Função exclusiva de correção do spooler de impressão:
+- Função exclusiva de correção do spooler de impressão:
 
--Para o serviço de spooler.
+- Para o serviço de spooler.
 
--Limpa a fila de impressão.
+- Limpa a fila de impressão.
 
--Reinicia o spooler.
+- Reinicia o spooler.
 
--Verifica o status da impressora selecionada.
+- Verifica o status da impressora selecionada.
 
--Atalhos automáticos: cria atalhos de alguns drivers instalados na área de trabalho.
-
+- Atalhos automáticos: cria atalhos de alguns drivers instalados na área de trabalho.
 
 ## 🎯Objetivo
 O sistema foi criado para agilizar o processo de configuração pós-formatação de computadores, permitindo que técnicos ou usuários executem de forma rápida:
