@@ -55,18 +55,18 @@ Instalação de drivers e componentes.
 
 ## 🛠️Tecnologias utilizadas
 
-Batch Script (.bat)
+- Batch Script (.bat)
 
--PowerShell (para downloads e atalhos)
+- PowerShell (para downloads e atalhos)
 
--Comandos nativos do Windows (WMIC, NET, DEL)
+- Comandos nativos do Windows (WMIC, NET, DEL)
 
 ## 📌Observações
--Requer permissão de administrador para execução correta.
+- Requer permissão de administrador para execução correta.
 
--Compatível com sistemas Windows.
+- Compatível com sistemas Windows.
 
--Alguns instaladores podem abrir janelas interativas caso não suportem instalação silenciosa.
+- Alguns instaladores podem abrir janelas interativas caso não suportem instalação silenciosa.
 
 ## 👨‍💻 Autor
 **Leandro Marques**  
