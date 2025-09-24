@@ -5,7 +5,7 @@ Este projeto é um script em Batch (.bat) desenvolvido para automatizar tarefas 
 ![Tela do Sistema]()
 
 
-##🚀 Funcionalidades##
+##🚀 Funcionalidades
 - Menu interativo organizado por categorias:
 
 - Navegadores (Chrome, Firefox)
