@@ -5,26 +5,26 @@ Este projeto é um script em Batch (.bat) desenvolvido para automatizar tarefas 
 ![Tela do Sistema]()
 ##🚀 Funcionalidades##
 
-Menu interativo organizado por categorias:
-Navegadores (Chrome, Firefox)
-Utilitários (WinRAR, 7-Zip, CCleaner)
-Mídia (VLC, Spotify)
-Escritório (LibreOffice, Adobe PDF Reader)
-Ferramentas online (Telegram, WhatsApp, Zoom)
-Drivers e componentes (Driver Booster, DirectX, Visual C++, Driver Easy)
-Instalação automática:
-Download direto dos sites oficiais.
-Execução silenciosa quando disponível (/quiet /norestart).
-Opção para instalar todos os programas de uma vez.
-Gerenciamento de impressoras:
-Lista impressoras conectadas.
-Instala drivers de fabricantes (HP, Epson, Canon, Brother).
-Função exclusiva de correção do spooler de impressão:
-Para o serviço de spooler.
-Limpa a fila de impressão.
-Reinicia o spooler.
-Verifica o status da impressora selecionada.
-Atalhos automáticos: cria atalhos de alguns drivers instalados na área de trabalho.
+-Menu interativo organizado por categorias:
+-Navegadores (Chrome, Firefox)
+-Utilitários (WinRAR, 7-Zip, CCleaner)
+-Mídia (VLC, Spotify)
+-Escritório (LibreOffice, Adobe PDF Reader)
+-Ferramentas online (Telegram, WhatsApp, Zoom)
+-Drivers e componentes (Driver Booster, DirectX, Visual C++, Driver Easy)
+-Instalação automática:
+-Download direto dos sites oficiais.
+-Execução silenciosa quando disponível (/quiet /norestart).
+-Opção para instalar todos os programas de uma vez.
+-Gerenciamento de impressoras:
+-Lista impressoras conectadas.
+-Instala drivers de fabricantes (HP, Epson, Canon, Brother).
+-Função exclusiva de correção do spooler de impressão:
+-Para o serviço de spooler.
+-Limpa a fila de impressão.
+-Reinicia o spooler.
+-Verifica o status da impressora selecionada.
+-Atalhos automáticos: cria atalhos de alguns drivers instalados na área de trabalho.
 
 ## 🎯Objetivo
 O sistema foi criado para agilizar o processo de configuração pós-formatação de computadores, permitindo que técnicos ou usuários executem de forma rápida:
