@@ -1,7 +1,7 @@
 ## ⚙️Sistema de Pós-Formatação – Automação de Instalação e Manutenção
 Este projeto é um script em Batch (.bat) desenvolvido para automatizar tarefas pós-formatação no Windows, otimizando tempo e facilitando a instalação de programas essenciais, drivers e correção de impressoras.
 
-![Tela do Sistema]()
+![Tela do Sistema](https://github.com/Leandro-MarquesTI/sistema-de-pos-formata-o/blob/main/pos%20foramta%C3%A7%C3%A3o.PNG)
 
 ## 🚀Funcionalidades
 - Menu interativo organizado por categorias:
